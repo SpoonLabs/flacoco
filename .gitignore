@@ -6,6 +6,7 @@
 # Compiled class file
 *.class
 !examples/exampleFL8NotMaven/bin/**
+!examples/exampleFL9NotMavenMultiple/bin/**
 
 # Log file
 *.log
